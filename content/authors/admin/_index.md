@@ -28,19 +28,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Kyungpook National University
+    url: https://www.knu.ac.kr/wbbs/wbbs/main/main.action
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Applied Biosciences – Environmental Toxicology
+      institution: Kyungpook National University
+      year: 2022
+    - course: M.S. in Applied Biosciences – Environmental Toxicology
+      institution: Kyungpook National University
+      year: 2018
+    - course: B.S. in Applied Biosciences – Molecular Microbiology (microbial toxin)
+      institution: Kyungpook National University
+      year: 2014
 superuser: true
 last_name: Bighetti
 highlight_name: true
