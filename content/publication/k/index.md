@@ -43,11 +43,11 @@ url_pdf: ""
 publication_types:
   - "2"
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: IF, Q1, %
+summary: IF:, Q1, %
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
