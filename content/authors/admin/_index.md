@@ -14,7 +14,7 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
-  - icon: Reserchgate
+  - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Kyeongnam-Kim
   - icon: twitter
