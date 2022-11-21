@@ -44,7 +44,7 @@ publication_types:
   - "2"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: center
+  focal_point: ""
   preview_only: false
   filename: featured.jpg
 summary: IF, Q1, %
