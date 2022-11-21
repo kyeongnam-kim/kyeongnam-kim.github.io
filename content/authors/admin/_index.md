@@ -1,7 +1,7 @@
 ---
 title: Kyeongnam Kim
 role: Ph.D.
-avatar_filename: 김경남.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology
 interests:
   - Mechanism
@@ -45,7 +45,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: kn1188@knu.ac.kr
 ---
 Kyeongnam Kim is a postdoctoral researcher of Institute for Quality and Safety Assessment of Agricultural Products at the Sung-Eun Lee's Lab. Her research interests include agricultural and environmental toxicology. She leads the projects related to insect & plant, which develops methods....
 
