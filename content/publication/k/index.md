@@ -44,12 +44,10 @@ publication_types:
   - "2"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
+  focal_point: center
   preview_only: false
   filename: featured.jpg
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: IF, Q1, %
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
