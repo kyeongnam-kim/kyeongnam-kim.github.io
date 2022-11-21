@@ -2,10 +2,9 @@
 avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology
 interests:
-  - Mechanism
-  - Toxicology
-  - Resistance
-  - Environmet
+  - Molecular Mechanism
+  - Environmental Toxicology
+  - Pesticide resistance
 social:
   - icon: envelope
     icon_pack: fas
