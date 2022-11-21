@@ -1,6 +1,4 @@
 ---
-title: Kyeongnam Kim
-role: Ph.D.
 avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology
 interests:
@@ -42,8 +40,12 @@ education:
       institution: Kyungpook National University
       year: 2014
 superuser: true
+user_groups:
+  - https://orlab.imweb.me/28
 last_name: Bighetti
+role: Ph.D.
 highlight_name: true
+title: Kyeongnam Kim
 first_name: Alice
 email: kn1188@knu.ac.kr
 ---
