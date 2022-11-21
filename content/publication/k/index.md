@@ -2,30 +2,49 @@
 title: k
 authors:
   - admin
-  - Robert Ford
+  - Chaeeun Kim
+  - Jinsung Yoo
+  - Jun-Ran Kim
+  - Yoon-Ha Kim
+  - Sung-Eun Lee
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: In *ICW*
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-tags: []
+doi: https://doi.org/10.1016/j.jhazmat.2022.130141
+publication_short: In *J Hazard Mat*
+abstract: Phosphine (PH3) is an ideal fumigant alternative on methyl bromide
+  (MB) as MB has been classified as an ozone-depleting substance. However,
+  several challenges limit its efficient use in crop production, including the
+  emergence of PH3-resistant insect pests and the incidence of phytotoxic
+  effects on nursery plants. Therefore, this study aims to elucidate the
+  mechanism underlying PH3 phytotoxicity in plants using transcriptomic
+  techniques. Fumigation with 2 g/m3 PH3 induced phytotoxic effects in A.
+  thaliana, as evidenced by a decrease in growth and vegetation indices compared
+  to the control group. Transcriptomic analysis revealed that PH3 fumigation
+  phytotoxicity responses in A. thaliana involve genes related to hypoxia stress
+  and energy metabolism. Additionally, pretreatment with ethylene induced
+  pre-adaptation to hypoxia under light conditions during fumigation effectively
+  suppressed the phytotoxic effects of PH3 in A. thaliana by increasing the
+  expression of hypoxia-adaptive genes. Moreover, the phytotoxicity of PH3 was
+  also confirmed in pumpkin (Cucurbita moschata Duch.), and was dependent on
+  light. Overall, our findings showed that fumigation under light conditions and
+  ethylene pretreatment could be used to minimize PH3-induced phytotoxic effects
+  in plants.
+tags:
+  - Phosphine
+categories:
+  - Plant
 projects:
-  - example
+  - Quarantine fumigants
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
+  filename: featured.jpg
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -33,14 +52,13 @@ url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-publication: In *Wowchemy Conference*
+publication: In *Journal of Hazardous Materials*
 featured: true
 date: 2022-11-21T13:10:05.449Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
 ---
 
 {{% callout note %}}
