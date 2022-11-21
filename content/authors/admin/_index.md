@@ -1,9 +1,8 @@
 ---
 title: Kyeongnam Kim
 role: Ph.D.
-avatar_filename: 김경남.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: 김경남.jpg
+bio: My research interests include agricultural and environmental toxicology
 interests:
   - Artificial Intelligence
   - Computational Linguistics
