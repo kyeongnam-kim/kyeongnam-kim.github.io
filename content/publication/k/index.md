@@ -1,5 +1,7 @@
 ---
-title: k
+title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
+  thaliana by increasing a hypoxia stress response and disrupting the energy
+  metabolism: Transcriptomic approaches"
 authors:
   - admin
   - Chaeeun Kim
