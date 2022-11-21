@@ -4,22 +4,23 @@ role: Ph.D.
 avatar_filename: 김경남.jpg
 bio: My research interests include agricultural and environmental toxicology
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mechanism
+  - Toxicology
+  - Resistance
+  - Environmet
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Kyeongnam_Kim
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
