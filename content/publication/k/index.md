@@ -1,19 +1,4 @@
 ---
-title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
-  thaliana by increasing a hypoxia stress response and disrupting the energy
-  metabolism: Transcriptomic approaches"
-authors:
-  - admin
-  - Chaeeun Kim
-  - Jinsung Yoo
-  - Jun-Ran Kim
-  - Yoon-Ha Kim
-  - Sung-Eun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
-doi: https://doi.org/10.1016/j.jhazmat.2022.130141
-publication_short: In *J Hazard Mat*
 abstract: Phosphine (PH3) is an ideal fumigant alternative on methyl bromide
   (MB) as MB has been classified as an ozone-depleting substance. However,
   several challenges limit its efficient use in crop production, including the
@@ -32,31 +17,55 @@ abstract: Phosphine (PH3) is an ideal fumigant alternative on methyl bromide
   light. Overall, our findings showed that fumigation under light conditions and
   ethylene pretreatment could be used to minimize PH3-induced phytotoxic effects
   in plants.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Chaeeun Kim
+  - Jinsung Yoo
+  - Jun-Ran Kim
+  - Yoon-Ha Kim
+  - Sung-Eun Lee
+author_notes:
+  - Equal contribution
+  - Equal contribution
+publication: In *Journal of Hazardous Materials*
+summary: IF:, Q1, %
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: In *J Hazard Mat*
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
+  thaliana by increasing a hypoxia stress response and disrupting the energy
+  metabolism: Transcriptomic approaches"
+doi: https://doi.org/10.1016/j.jhazmat.2022.130141
+featured: true
 tags:
   - Phosphine
 categories:
   - Plant
 projects:
   - Quarantine fumigants
-slides: example
-url_pdf: ""
-publication_types:
-  - "2"
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: IF:, Q1, %
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
-publication: In *Journal of Hazardous Materials*
-featured: true
 date: 2022-11-21T13:10:05.449Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
