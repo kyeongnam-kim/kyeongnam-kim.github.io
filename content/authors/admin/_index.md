@@ -5,6 +5,7 @@ interests:
   - Molecular Mechanism
   - Environmental Toxicology
   - Pesticide resistance
+  - OMICS
 social:
   - icon: envelope
     icon_pack: fas
