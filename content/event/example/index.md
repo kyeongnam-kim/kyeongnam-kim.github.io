@@ -6,12 +6,12 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: "Invited Talk: Phytotoxic mechanisms and reduction methods of major
   quarantine fumigants through transcriptome analysis"
-location: Wowchemy HQ
+location: LAHAN SELECT Hotel, Gyeongju, Korea
 date: 2030-06-01T13:00:00Z
 date_end: 2030-06-01T15:00:00Z
 all_day: false
 event: "Fall International Conference of Korean Society of Applied Entomology (KSAE) "
-event_url: https://example.org
+event_url: https://www.entomology.or.kr/notice/view.php?idx=6988
 featured: false
 authors: []
 url_video: ""
