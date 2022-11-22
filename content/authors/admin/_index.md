@@ -25,7 +25,7 @@ social:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kyeongnam-kim
 organizations:
   - name: Kyungpook National University
     url: https://www.knu.ac.kr/wbbs/wbbs/main/main.action
